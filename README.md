@@ -10,7 +10,7 @@ This project utilizes Machine Learning to predict customer turnover for a teleco
 - Risk Factors: Identified that Month-to-Month contracts and high Fiber Optic charges were the primary drivers of churn.
 - Business Strategy: Recommended targeted discount campaigns for high-risk segments to improve retention.
 
-## Visual Output
+## Visual Output Sample
 ![Churn Analysis Insights](churn_by_contract_type.png)
 
 ## Tech Stack
